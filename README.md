@@ -1,2 +1,2 @@
 # soldierguy.github.io
-simple website
+Nothing much at the moment.
